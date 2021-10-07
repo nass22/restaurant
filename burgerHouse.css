@@ -1,5 +1,13 @@
-/*.backImg{
-    background-image: url("src/87301_w768h583c1cx2213cy1453cxb4500cyb3000.png");
-    background-repeat: none;
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.backImg {
+    text-align: center;
+    padding-top: 80px;
+    font-family: Permanent Marker;
+    text-shadow: 0 0 3px #a0a0a0, 0 0 20px #F21170, 0 0 20px #828282;
+    color: #F21170;
 }
-*/
+
+.marginLeft{
+    margin-left: 20px;
+}
