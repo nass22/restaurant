@@ -1,4 +1,7 @@
 # Projet Restaurant (Burger House) - Boostrap
+
+![BurgerRestaurant](https://i.ibb.co/QdyKRgk/restaurant.png)
+
 ---
 
 #### Consignes:
